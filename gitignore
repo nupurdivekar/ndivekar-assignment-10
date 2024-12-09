@@ -1,0 +1,4 @@
+.venv
+static/coco_images_resized
+image_embeddings.pickle
+__pycache__
