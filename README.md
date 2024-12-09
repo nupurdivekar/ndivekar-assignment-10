@@ -1,3 +1,9 @@
+Collaborator: Aarsh Mehta
+
+Video Link: https://youtu.be/DcXjHQXZ-e0
+
+
+
 # Assignment 10: Image Search
 --------------------
 
